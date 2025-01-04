@@ -1,0 +1,42 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.iml
+
+# Git folder metadata
+*.git
+
+# Files generated for previews
+assets/img/generated/
+
+# Notes and drafts
+*.md~
+# Node.js modules
+node_modules/
+
+# Environment variables
+.env
+
+# Lock files
+*.lock
+
+# Coverage reports
+coverage/
+
+# Logs and debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
