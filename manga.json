@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "One Piece",
+    "genre": ["Action", "Adventure"],
+    "rating": 9.2,
+    "chapters": 1072,
+    "image": "assets/img/onepiece.jpg",
+    "description": "Monkey D. Luffy and his pirate crew seek the legendary One Piece treasure."
+  },
+  {
+    "id": 2,
+    "title": "Naruto",
+    "genre": ["Action", "Fantasy"],
+    "rating": 8.8,
+    "chapters": 700,
+    "image": "assets/img/naruto.jpg",
+    "description": "A young ninja seeks recognition and dreams of becoming the Hokage."
+  }
+]
