@@ -1,0 +1,16 @@
+[
+  {
+    "manga_id": 1,
+    "chapters": [
+      {"id": 1, "title": "Romance Dawn", "link": "#"},
+      {"id": 2, "title": "Enter Zoro", "link": "#"}
+    ]
+  },
+  {
+    "manga_id": 2,
+    "chapters": [
+      {"id": 1, "title": "Uzumaki Naruto", "link": "#"},
+      {"id": 2, "title": "Konoha's Number One Knucklehead Ninja", "link": "#"}
+    ]
+  }
+]
