@@ -1,7 +1,7 @@
 # FoolScans
 
 **FoolScans** adalah website membaca manga dengan tampilan modern, cepat, dan mobile-friendly.  
-Hosting di: [GitHub Pages](https://gogites.github.io/foolscans)
+Hosting di: [GitHub Pages](https://gogites.github.io/FoolScans)
 
 ## Fitur
 - **Responsive Design**: Desain yang optimal untuk desktop dan perangkat mobile.
@@ -13,4 +13,4 @@ Hosting di: [GitHub Pages](https://gogites.github.io/foolscans)
 ## Instalasi
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/gogites/foolscans.git
+   git clone https://github.com/Gogites/FoolScans.git
